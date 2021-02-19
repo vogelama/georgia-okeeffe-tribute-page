@@ -1,0 +1,108 @@
+<style>
+
+	html {
+		font-size: 12px;
+	}
+
+	body {
+		font-family: Helvetica, sans-serif;
+		line-height: 1.1;
+		text-align: center;
+		color: rgba(0,0,0,.85);
+		margin: 0px 30px 0px 30px;
+	}
+
+	#main {
+		width: 100%;
+	}
+
+	#main h2 {
+		margin: 0;
+		padding: 10px;
+		font-size: 1.2em;
+	}
+
+	#mini {
+		width: 50px;
+		height: auto;
+		margin-top: 20px;
+		padding: 0px;
+	}
+
+	#title {
+		font-family: 'Oswald', sans-serif;
+		font-size: 3.5em;
+		text-align: center;
+		margin: 0 0 10px 0;
+		padding: 10px;
+		color: #EB4708;
+	}
+
+	figure {
+		margin: 0;
+	}
+
+	#img-div {
+		padding: 30px 30px 30px 30px;
+
+	}
+
+	#image {
+		max-width: 1200px;
+		width: 100%;
+		height: auto;
+		display: block;
+		margin: auto;
+		color: red;
+
+	}
+
+	#img-caption {
+		text-align: center;
+		padding: 10px;
+		font-size: .9em;
+		background-color: #EDCFB2;
+	}
+
+	#museum-quote {
+		margin: 0px;
+		padding: 10px 30px 10px 30px;
+		line-height: 1.5em;
+		font-size: 1em;
+	}
+
+	}
+
+	#tribute-info {
+		background-color: rgba(0,0,0,.20);
+	}
+
+	h3{
+		padding: 10px;
+		margin: 20px 0px 10px 0px;
+	}
+
+	ul {
+		margin: 0px;
+		display: inline-block;
+		text-align: left;
+	}
+
+	li {
+		line-height: 1.5em;
+		padding: 10px 30px 10px 5px;
+	}
+
+h4 {
+	margin: 20px 0px 20px 0px;
+	padding: 20px;
+	background-color: #EDCFB2;
+	line-height: 1.5em;
+}
+
+	#tribute-link {
+		text-decoration: underline;
+		color: rgba(0,0,0, .90);
+	}
+
+</style>
